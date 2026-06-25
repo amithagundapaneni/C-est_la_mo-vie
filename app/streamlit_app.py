@@ -367,7 +367,7 @@ st.markdown("""
 <div class="hero">
   <div class="hero-eyebrow">✦ Now Showing ✦</div>
   <div class="hero-title">C'est la mo-vie</div>
-  <div class="hero-sub">Movies chosen for who you are — and how you feel tonight</div>
+  <div class="hero-sub">Some nights just need the perfect movies</div>
   <div class="rule"></div>
 </div>
 """, unsafe_allow_html=True)
@@ -486,13 +486,13 @@ else:
     st.markdown("""
 <div class="empty">
   <div class="empty-title">What are you in the mood for?</div>
-  <div class="empty-sub">Tell us a feeling · get a film</div>
+  <div class="empty-sub">Every mood has a movie</div>
 </div>
 """, unsafe_allow_html=True)
 
 # ── FOOTER ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-  C'est la mo-vie &nbsp;·&nbsp; A mood-aware cinema companion &nbsp;·&nbsp; Powered by sentence transformers
+  C'est la mo-vie &nbsp;·&nbsp; A mood-aware cinema companion &nbsp;·&nbsp; 
 </div>
 """, unsafe_allow_html=True)
