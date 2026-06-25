@@ -1,15 +1,15 @@
-# 🎬 Afterglow
+# C'est La Mo-Vie
 
 > *Movies chosen for who you are — and how you feel tonight.*
 
-Afterglow is a mood-aware movie recommendation system that understands **both your long-term taste and your current viewing intent** using natural-language embeddings and hybrid semantic search.
+This is a mood-aware movie recommendation system that understands **both your long-term taste and your current viewing intent** using natural-language embeddings and hybrid semantic search.
 
 ---
 
 ## ✦ What Makes It Different
 
 Most recommenders ask: *"What did you watch last?"*  
-Afterglow asks: *"What do you feel like tonight?"*
+We asks: *"What do you feel like tonight?"*
 
 ```
 "I loved La La Land and Past Lives.
@@ -223,6 +223,3 @@ Pure rule-based: no external LLM API. Uses genre text, vibe cluster, rating, and
 - [ ] "More like this" button on each card
 - [ ] Export watchlist to Letterboxd CSV
 
----
-
-*Afterglow — Built with sentence-transformers, Streamlit, and a love of cinema.*
