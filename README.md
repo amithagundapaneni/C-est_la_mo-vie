@@ -9,7 +9,7 @@ This is a mood-aware movie recommendation system that understands **both your lo
 ## ✦ What Makes It Different
 
 Most recommenders ask: *"What did you watch last?"*  
-We asks: *"What do you feel like tonight?"*
+We ask: *"What do you feel like tonight?"*
 
 ```
 "I loved La La Land and Past Lives.
