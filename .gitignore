@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/movie_data.csv
+data/processed/
+
+*.npy
+*.parquet

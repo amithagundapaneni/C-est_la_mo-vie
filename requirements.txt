@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+sentence-transformers==3.0.1
+streamlit==1.36.0
+requests==2.32.3
+Pillow==10.4.0
+plotly==5.22.0
+tqdm==4.66.4
+torch==2.3.1
+transformers==4.42.4
